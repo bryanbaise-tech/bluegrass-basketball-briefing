@@ -8,8 +8,7 @@ theme: minima
 minima:
   skin: classic
 
-author:
-  name: bryanbaise-tech
+author: bryanbaise-tech
 
 show_excerpts: true
 
