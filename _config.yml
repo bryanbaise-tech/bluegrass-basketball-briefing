@@ -1,0 +1,29 @@
+title: "Bluegrass Basketball Briefing"
+description: "Your daily Kentucky basketball digest"
+baseurl: "/bluegrass-basketball-briefing"
+url: "https://bryanbaise-tech.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+
+author:
+  name: bryanbaise-tech
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
