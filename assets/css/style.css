@@ -208,6 +208,34 @@ body {
 .post-list-title a:hover { color: var(--accent); }
 .post-list-excerpt { color: var(--ink-mute); margin: 0; font-size: 16px; }
 
+/* --- archives -------------------------------------------------------- */
+.archive-list { list-style: none; margin: 0 0 8px; padding: 0; }
+.archive-row {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--hair);
+}
+.archive-date {
+  font-family: var(--font-label);
+  font-size: 12.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  white-space: nowrap;
+  flex: 0 0 72px;
+}
+.archive-link {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 18px;
+  color: var(--ink);
+  text-decoration: none;
+  letter-spacing: -0.2px;
+}
+.archive-link:hover { color: var(--accent); }
+
 /* --- footer ---------------------------------------------------------- */
 .site-footer {
   border-top: 1px solid var(--rule);
