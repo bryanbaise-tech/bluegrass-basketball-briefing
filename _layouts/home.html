@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% if content and content != "" %}
+<div class="home-intro">
+  {{ content }}
+</div>
+{% endif %}
+
+<p class="section-label">Latest Briefings</p>
+<div class="post-list">
+  {% for post in site.posts %}
+  <article class="post-list-item">
+    <p class="post-list-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+    <h2 class="post-list-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% if post.excerpt %}
+    <p class="post-list-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 28 }}</p>
+    {% endif %}
+  </article>
+  {% endfor %}
+</div>
