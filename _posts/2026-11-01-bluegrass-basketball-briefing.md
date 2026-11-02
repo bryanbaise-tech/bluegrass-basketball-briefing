@@ -10,24 +10,31 @@ No game yesterday. Next up: Manhattan Jaspers on November 3, 2026.
 
 ## Cats Notebook
 
-### Preseason Shot Diet
+### Momcilovic's Shot Volume
 
-Milan Momcilovic led Kentucky in preseason field goal attempts with 31 and three-point attempts with 20 across three exhibition wins, averaging 16.7 points on 48.4 percent shooting and 45 percent from deep, but [Mark Pope wants those volume numbers to climb](https://on3.com/teams/kentucky-wildcats/news/milan-momcilovic-led-kentucky-shots-during-preseason-but-mark-pope-wants-even-more-looks/) once the regular season tips. At Iowa State last year, Momcilovic averaged 11.1 shots and 7.5 three-point attempts per game, benchmarks Pope views as a floor for his new lead option. Ousmane N'Diaye was right behind on volume with 19 preseason threes but connected on just 21.1 percent of them, and [Pope told KSR he has no intention of pulling back the green light](https://on3.com/teams/kentucky-wildcats/news/ousmane-ndiayes-green-light-isnt-going-anywhere-we-shoot-every-open-shot/), citing N'Diaye's 75-plus percent clip in summer shooting and the team's goal of 35 threes per night.
+Milan Momcilovic led Kentucky in field goal attempts (31) and three-point attempts (20) across the three-game exhibition slate against Little Rock, No. 19 Texas Tech, and UCF, averaging 16.7 points and 5.7 rebounds while shooting 48.4 percent from the field and 45 percent from deep. [Mark Pope wants those numbers higher](https://on3.com/teams/kentucky-wildcats/news/milan-momcilovic-led-kentucky-shots-during-preseason-but-mark-pope-wants-even-more-looks/), noting Momcilovic averaged 11.1 field goal attempts and 7.5 three-point attempts per game at Iowa State last season. The exhibition average of 10.3 field goal attempts and 6.7 threes per game is close but below where Pope wants him operating in the regular season.
 
-### Moreno on the National Radar
+### Green Light for N'Diaye
 
-Malachi Moreno landed on the [Kareem Abdul-Jabbar Center of the Year watch list](https://on3.com/teams/kentucky-wildcats/news/pair-wildcats-up-national-center-year-honors/) as one of 20 preseason candidates, joining Florida's Rueben Chinyelu and Texas's Matas Vokietaitis as the only SEC centers on the list. The Georgetown product was also named Preseason All-SEC Third Team by both the league media and coaches. He closed the exhibition slate with 16 points, 14 rebounds and eight assists on 6-of-10 shooting against UCF, a near triple-double that frames expectations for the seven-footer heading into the opener against Manhattan.
+Ousmane N'Diaye attempted the second-most shots on the team in the preseason despite shooting 32.1 percent from the field and 21.1 percent from three across the three exhibitions, going 2-of-7, 4-of-11, and 3-of-10 against Little Rock, Texas Tech, and UCF respectively. Pope [told KSR he is not pulling back the Senegalese forward's green light](https://on3.com/teams/kentucky-wildcats/news/ousmane-ndiayes-green-light-isnt-going-anywhere-we-shoot-every-open-shot/), saying N'Diaye shot above 75 percent in summer shooting workouts and that the staff will "never turn down an open shot" as part of its chase for 35 threes per game.
 
-## Around the SEC
+### Moreno on National Watch List
 
-- **[Malachi Moreno named to Kareem Abdul-Jabbar Center of the Year watch list alongside SEC bigs](https://on3.com/teams/kentucky-wildcats/news/pair-wildcats-up-national-center-year-honors/)** — Florida's Rueben Chinyelu and Texas's Matas Vokietaitis joined Moreno as the only SEC centers on the 20-player preseason watch list.
+Malachi Moreno is [one of 20 players on the Kareem Abdul-Jabbar Center of the Year watch list](https://on3.com/teams/kentucky-wildcats/news/pair-wildcats-up-national-center-year-honors/), joining Florida's Rueben Chinyelu and Texas's Matas Vokietaitis as the only SEC centers on the preseason list. The Georgetown product was also named Preseason All-SEC Third Team by both the league media and coaches, and he finished the exhibition slate with 16 points, 14 rebounds, and eight assists on 6-of-10 shooting against UCF.
 
+### Opener and Early Context
+
+Kentucky opens the regular season Tuesday in Rupp Arena against Manhattan, with KSR [framing the week as the start of "crossover season"](https://on3.com/teams/kentucky-wildcats/news/ksr-today-its-tennessee-week-and-basketball-season-begins/) in Lexington. The Wildcats will see Kansas and freshman Tyron Stokes in the Champions Classic, a game Field of 68's Jeff Goodman [pegged as a potential national player of the year showcase for Stokes](https://www.youtube.com/watch?v=1LxX1gASlx4&t=4025s).
+
+## Top 25 Matchups
+
+*No completed games involving a ranked team.*
 ## Recruiting and Portal
 
 *No recruiting or portal news in this window.*
 
 ## Interesting Analysis
 
-- **[Opening Day Marathon recap](https://www.youtube.com/watch?v=xtZmPgK61c0)** — Field of 68 runs through every notable result from Monday's slate, useful context for how the broader field looked in Game 1.
-- **[TJ Otzelberger on Iowa State vs. Memphis](https://www.youtube.com/watch?v=nTCXCbYiXNM)** — the Cyclones coach breaks down the opening matchup against Memphis.
-- **[Three Man Weave Opening Day pod](https://www.youtube.com/watch?v=XtpdLQPQS78)** — mid-major focused breakdown of the first night.
+- **[Field of 68 Opening Day Marathon: Grambling vs. Northern Illinois](https://www.youtube.com/watch?v=1LxX1gASlx4)** — Isaiah Miranda's 29-point breakout for Patrick Crarey's Grambling is a reminder that SWAC frontcourts can produce legitimate NBA-size matchup problems for high-majors who buy games against the league later this month.
+- **[Field of 68 Opening Day Marathon: Marist vs. Appalachian State](https://www.youtube.com/watch?v=AQ8oLSxSg2Y)** — An extended live look at Joe Gallo's all-zone Marist system, with Matt McCall breaking down how size and physicality attack it, useful context for how good offenses solve matchup zones.
+- **[TJ Otzelberger previews Iowa State's opener against Memphis](https://www.youtube.com/watch?v=nTCXCbYiXNM)** — Otzelberger makes the case that roster retention, not portal volume, is the sustainable path, with Iowa State returning four rotation players for a sixth straight year.
