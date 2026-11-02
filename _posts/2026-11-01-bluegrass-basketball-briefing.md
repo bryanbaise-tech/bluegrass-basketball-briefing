@@ -36,5 +36,4 @@ Kentucky opens the regular season Tuesday in Rupp Arena against Manhattan, with 
 ## Interesting Analysis
 
 - **[Field of 68 Opening Day Marathon: Grambling vs. Northern Illinois](https://www.youtube.com/watch?v=1LxX1gASlx4)** — Isaiah Miranda's 29-point breakout for Patrick Crarey's Grambling is a reminder that SWAC frontcourts can produce legitimate NBA-size matchup problems for high-majors who buy games against the league later this month.
-- **[Field of 68 Opening Day Marathon: Marist vs. Appalachian State](https://www.youtube.com/watch?v=AQ8oLSxSg2Y)** — An extended live look at Joe Gallo's all-zone Marist system, with Matt McCall breaking down how size and physicality attack it, useful context for how good offenses solve matchup zones.
 - **[TJ Otzelberger previews Iowa State's opener against Memphis](https://www.youtube.com/watch?v=nTCXCbYiXNM)** — Otzelberger makes the case that roster retention, not portal volume, is the sustainable path, with Iowa State returning four rotation players for a sixth straight year.
