@@ -118,7 +118,19 @@ Kentucky's class of 2027 ranks [No. 45 nationally](https://247sports.com/Season/
 
 **Top targets**
 
-| Player | Pos | Stars | Nat. rank | From | 247 temperature || --- | --- | ---: | ---: | --- | --- || [Beckham Black](https://247sports.com/Player/beckham-black-46145424/) | PG | 5 | 1 | Southeastern Prep, Orlando, FL | Cool || [CJ Rosser](https://247sports.com/Player/cj-rosser-46151476/) | PF | 5 | 2 | Southeastern Prep, Orlando, FL | Warm || [Cayden Daughtry](https://247sports.com/Player/cayden-daughtry-46142503/) | PG | 5 | 3 | Calvary Christian Academy, Fort Lauderdale, FL | Cool || [AJ Williams](https://247sports.com/Player/aj-williams-46157913/) | SF | 5 | 5 | Eagle's Landing Christian Academy, McDonough, GA | Warm || [Adan Diggs](https://247sports.com/Player/adan-diggs-46150995/) | CG | 5 | 6 | Millennium, Goodyear, AZ | Cool || [Nasir Anderson](https://247sports.com/Player/nasir-anderson-46148955/) | PG | 5 | 8 | Prolific Prep, Fort Lauderdale, FL | Cool || [Jalen Davis](https://247sports.com/Player/jalen-davis-46148123/) | CG | 4 | 13 | Bremerton, Bremerton, WA | Cool || [Paul Osaruyi](https://247sports.com/Player/paul-osaruyi-46143728/) | C | 4 | 18 | Bella Vista Prep, Scottsdale, AZ | Cool || [Cherif Millogo](https://247sports.com/Player/cherif-millogo-46159949/) | C | 4 | 45 | St. Francis, La Canada Flintridge, CA | Warm || [Jaylan Mitchell](https://247sports.com/Player/jaylan-mitchell-46143031/) | SF | 4 | 136 | Vashon, St. Louis, MO | Cool || [Braxton Keathley](https://247sports.com/Player/braxton-keathley-46160098/) | PG | 3 |  | Prolific Prep, Fort Lauderdale, FL | Cool |
+| Player | Pos | Stars | Nat. rank | From | 247 temperature |
+| --- | --- | ---: | ---: | --- | --- |
+| [Beckham Black](https://247sports.com/Player/beckham-black-46145424/) | PG | 5 | 1 | Southeastern Prep, Orlando, FL | Cool |
+| [CJ Rosser](https://247sports.com/Player/cj-rosser-46151476/) | PF | 5 | 2 | Southeastern Prep, Orlando, FL | Warm |
+| [Cayden Daughtry](https://247sports.com/Player/cayden-daughtry-46142503/) | PG | 5 | 3 | Calvary Christian Academy, Fort Lauderdale, FL | Cool |
+| [AJ Williams](https://247sports.com/Player/aj-williams-46157913/) | SF | 5 | 5 | Eagle's Landing Christian Academy, McDonough, GA | Warm |
+| [Adan Diggs](https://247sports.com/Player/adan-diggs-46150995/) | CG | 5 | 6 | Millennium, Goodyear, AZ | Cool |
+| [Nasir Anderson](https://247sports.com/Player/nasir-anderson-46148955/) | PG | 5 | 8 | Prolific Prep, Fort Lauderdale, FL | Cool |
+| [Jalen Davis](https://247sports.com/Player/jalen-davis-46148123/) | CG | 4 | 13 | Bremerton, Bremerton, WA | Cool |
+| [Paul Osaruyi](https://247sports.com/Player/paul-osaruyi-46143728/) | C | 4 | 18 | Bella Vista Prep, Scottsdale, AZ | Cool |
+| [Cherif Millogo](https://247sports.com/Player/cherif-millogo-46159949/) | C | 4 | 45 | St. Francis, La Canada Flintridge, CA | Warm |
+| [Jaylan Mitchell](https://247sports.com/Player/jaylan-mitchell-46143031/) | SF | 4 | 136 | Vashon, St. Louis, MO | Cool |
+| [Braxton Keathley](https://247sports.com/Player/braxton-keathley-46160098/) | PG | 3 |  | Prolific Prep, Fort Lauderdale, FL | Cool |
 **Visits**
 
 - [Adan Diggs](https://247sports.com/Player/adan-diggs-46150995/), CG 5-star: visit 2026-10-22
