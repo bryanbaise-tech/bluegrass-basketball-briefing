@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluegrass Basketball Briefing — March 13, 2026"
+title: "Rupp Report — March 13, 2026"
 date: 2026-03-13 09:00:00 -0400
 categories: briefing
 tags: [kentucky-basketball, game-recap]

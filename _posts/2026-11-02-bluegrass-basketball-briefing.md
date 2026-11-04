@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluegrass Basketball Briefing — November 2, 2026 (No Game)"
+title: "Rupp Report — November 2, 2026 (No Game)"
 date: 2026-11-02 09:00:00 -0500
 image: /assets/og/2026-11-02.png
 categories: briefing

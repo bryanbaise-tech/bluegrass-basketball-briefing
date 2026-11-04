@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluegrass Basketball Briefing — November 3, 2026"
+title: "Rupp Report — November 3, 2026"
 date: 2026-11-03 09:00:00 -0500
 image: /assets/og/2026-11-03.png
 categories: briefing

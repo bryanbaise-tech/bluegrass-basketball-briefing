@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluegrass Basketball Briefing — Week of October 29, 2026"
+title: "Rupp Report — Week of October 29, 2026"
 date: 2026-10-29 09:00:00 -0400
 categories: briefing
 tags: [kentucky-basketball, off-season]

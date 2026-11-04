@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluegrass Basketball Briefing — November 1, 2026 (No Game)"
+title: "Rupp Report — November 1, 2026 (No Game)"
 date: 2026-11-01 09:00:00 -0500
 categories: briefing
 tags: [kentucky-basketball, off-day]

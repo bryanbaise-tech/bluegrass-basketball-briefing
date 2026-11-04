@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluegrass Basketball Briefing — Week of May 12, 2026"
+title: "Rupp Report — Week of May 12, 2026"
 date: 2026-05-12 09:00:00 -0400
 categories: briefing
 tags: [kentucky-basketball, off-season]
