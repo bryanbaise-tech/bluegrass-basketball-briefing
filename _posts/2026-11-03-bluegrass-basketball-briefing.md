@@ -25,17 +25,17 @@ Attendance 19,304. Officials: K.B. Burdett, Wil Howard, Michael Wallace. TV: SEC
 
 | Player | Pos | MIN | FG | 3P | FT | REB | AST | TO | STL | BLK | PF | PTS | TS% | USG% | +/- |
 | --- | --- | ---: | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Ousmane N'Diaye | F | 20 | 2-7 | 0-2 | 0-0 | 4 | 0 | 1 | 0 | 1 | 0 | 4 |  |  |  |
-| Milan Momcilovic | F | 29 | 8-12 | 6-9 | 2-2 | 5 | 1 | 0 | 0 | 0 | 1 | 24 |  |  |  |
-| Malachi Moreno | C | 20 | 3-4 | 0-0 | 2-3 | 10 | 2 | 2 | 0 | 0 | 4 | 8 |  |  |  |
-| Alex Wilkins | G | 26 | 4-7 | 3-6 | 0-0 | 2 | 5 | 2 | 7 | 0 | 4 | 11 |  |  |  |
-| Zoom Diallo | G | 27 | 4-7 | 1-3 | 3-4 | 3 | 2 | 4 | 2 | 0 | 1 | 12 |  |  |  |
-| Reece Potter | F | 6 | 0-1 | 0-1 | 0-0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 |  |  |  |
-| Braydon Hawthorne | F | 19 | 4-8 | 0-4 | 0-0 | 5 | 4 | 0 | 0 | 2 | 0 | 8 |  |  |  |
-| Justin McBride | F | 16 | 1-5 | 1-5 | 0-0 | 2 | 1 | 1 | 0 | 1 | 0 | 3 |  |  |  |
-| Franck Kepnang | C | 13 | 3-3 | 0-0 | 2-2 | 3 | 0 | 1 | 0 | 0 | 3 | 8 |  |  |  |
-| Zyon Hawthorne | G | 5 | 0-0 | 0-0 | 0-0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 |  |  |  |
-| Mason Williams | G | 19 | 3-6 | 1-1 | 0-0 | 0 | 5 | 3 | 0 | 0 | 4 | 7 |  |  |  |
+| Ousmane N'Diaye | F | 20 | 2-7 | 0-2 | 0-0 | 4 | 0 | 1 | 0 | 1 | 0 | 4 | 28.6 | 20.3 |  |
+| Milan Momcilovic | F | 29 | 8-12 | 6-9 | 2-2 | 5 | 1 | 0 | 0 | 0 | 1 | 24 | 93.2 | 22.5 |  |
+| Malachi Moreno | C | 20 | 3-4 | 0-0 | 2-3 | 10 | 2 | 2 | 0 | 0 | 4 | 8 | 75.2 | 18.6 |  |
+| Alex Wilkins | G | 26 | 4-7 | 3-6 | 0-0 | 2 | 5 | 2 | 7 | 0 | 4 | 11 | 78.6 | 17.6 |  |
+| Zoom Diallo | G | 27 | 4-7 | 1-3 | 3-4 | 3 | 2 | 4 | 2 | 0 | 1 | 12 | 68.5 | 24.0 |  |
+| Reece Potter | F | 6 | 0-1 | 0-1 | 0-0 | 2 | 0 | 0 | 0 | 0 | 1 | 0 | 0.0 | 8.5 |  |
+| Braydon Hawthorne | F | 19 | 4-8 | 0-4 | 0-0 | 5 | 4 | 0 | 0 | 2 | 0 | 8 | 50.0 | 21.4 |  |
+| Justin McBride | F | 16 | 1-5 | 1-5 | 0-0 | 2 | 1 | 1 | 0 | 1 | 0 | 3 | 30.0 | 19.0 |  |
+| Franck Kepnang | C | 13 | 3-3 | 0-0 | 2-2 | 3 | 0 | 1 | 0 | 0 | 3 | 8 | 103.1 | 19.0 |  |
+| Zyon Hawthorne | G | 5 | 0-0 | 0-0 | 0-0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 |  | 0.0 |  |
+| Mason Williams | G | 19 | 3-6 | 1-1 | 0-0 | 0 | 5 | 3 | 0 | 0 | 4 | 7 | 58.3 | 24.0 |  |
 
 ### Manhattan Jaspers Top Performers
 
@@ -63,8 +63,8 @@ Attendance 19,304. Officials: K.B. Burdett, Wil Howard, Michael Wallace. TV: SEC
 
 | Team | eFG% | TO% | OREB% | FT Rate |
 | --- | ---: | ---: | ---: | ---: |
-| Kentucky | — | — | — | — |
-| Manhattan Jaspers | — | — | — | — |
+| Kentucky | 63.3 | 17.8 | 50.0 | 18.3 |
+| Manhattan Jaspers | 41.7 | 16.9 | 31.6 | 42.6 |
 
 ### Shot Profile
 
